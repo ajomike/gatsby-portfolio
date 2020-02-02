@@ -6,7 +6,7 @@ class Footer extends React.Component {
       <footer className="pt-3 pb-3 alert-light">
         <div className="container d-flex align-items-center">
           <div className="copyright">
-            &copy; 2019
+            &copy; {new Date().getFullYear()}
           </div>
           <div className="social ml-auto">
             <a href="https://www.linkedin.com/in/michaelescoto/" className="ml-2">

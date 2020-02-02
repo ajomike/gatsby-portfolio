@@ -56,7 +56,7 @@ const About = () => (
               <li></li>
             </ul>
             <h5>About the Site</h5>
-            <p>This site is built using the static site generator GatsbyJS, which is based on React. You can view the source code on <a href="">GitHub</a>. You may be thinking to yourself that the site looks a bit plain and you'd be right! I don't really do design. Fortunately, I've had the pleasure to work with some really great designers in my day and I'll leave color theory, typography and such up to the professionals.</p>
+            <p>This site is built using the static site generator GatsbyJS, which is based on React. You can view the source code on <a href="https://github.com/ajomike/gatsby-portfolio">GitHub</a>. You may be thinking to yourself that the site looks a bit plain and you'd be right! I don't really do design. Fortunately, I've had the pleasure to work with some really great designers in my day and I'll leave color theory, typography and such up to the professionals.</p>
           </div>
           <aside className="col-sm-12 col-md-4">
             <h4 className="mb-3">Fun Facts</h4>

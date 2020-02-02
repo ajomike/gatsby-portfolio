@@ -9,7 +9,7 @@ class Card extends React.Component {
           <div className="card-body">
             <div className="card-text">
               <p><b>{this.props.title}</b></p>
-              <a href={this.props.link} target="_blank">View &rarr;</a>
+              <a href={this.props.link} target="_blank" rel="noopener noreferrer">View &rarr;</a>
             </div>
           </div>
         </div>
